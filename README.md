@@ -1,6 +1,6 @@
 # Hi, I'm Alejandra 👋
 
-💻 Jr Software Developer & Computer Engineering Student  
+💻 Software Developer & Computer Engineering Student  
 📍 Asunción, Paraguay (LATAM)
 
 Currently working at **SODEP S.A** developing and maintaining backend services and mobile features.
@@ -43,9 +43,9 @@ Currently working at **SODEP S.A** developing and maintaining backend services a
 
 ## 🎯 Current Goals
 
-- Improve **backend engineering and system design**
-- Build **full stack projects**
-- Gain **industry experience and grow as a software engineer**
+- Deepen expertise in Spring Boot and **backend architecture**
+- Build **full stac**k applications with modern tools
+- Improve **software design**, **testing** and **scalability** practices
 
 ---
 
@@ -62,5 +62,5 @@ Fullstack Python Bootcamp (Flask)\
 Flutter Development Bootcamp
 
 ## 📫 Contact
-
-📧 alejandrafrancog5@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alejandrafrancog  
+- Email: alejandrafrancog5@gmail.com
