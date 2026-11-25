@@ -8,9 +8,6 @@
 
 - 🏢 Currently working at **SODEP S.A** developing and maintaining backend services and mobile features
 - 🎓 Studying **Computer Engineering** at Universidad Nacional de Asunción (2022 - Present)
-- 🌱 Currently deepening my expertise in **Spring Boot** and **backend architecture**
-- 🚀 Passionate about building scalable full stack applications
-
 ---
 
 ### 🚀 What I Do
@@ -22,26 +19,6 @@
 - Perform API and functional testing
 
 ---
-
-### 🎯 Current Goals
-
-- Deepen expertise in Spring Boot and backend architecture
-- Build full stack applications with modern tools
-- Improve software design, testing and scalability practices
-
----
-
-### 📚 Education & Training
-
-🎓 **Computer Engineering** — Universidad Nacional de Asunción *(2022 - Present)*
-
-📌 Additional bootcamps:
-- Quality Engineering (Java - Selenium)
-- Fullstack Python (Flask)
-- Flutter Development
-
----
-
 ### 📫 Let's Connect!
 
 <p>
