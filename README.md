@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Alejandra 👋</h1>
-
-<p align="center">
-  💻 Software Developer & Computer Engineering Student &nbsp;|&nbsp; 📍 Asunción, Paraguay
-</p>
+<img width="255" height="526" alt="image" src="https://github.com/user-attachments/assets/3a634c6b-596f-4905-a452-13533f263369" />
 
 ---
 
