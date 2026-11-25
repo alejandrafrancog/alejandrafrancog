@@ -1,7 +1,3 @@
-<img width="255" height="526" alt="image" src="https://github.com/user-attachments/assets/3a634c6b-596f-4905-a452-13533f263369" />
-
----
-
 ### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,js,postgres,mysql,docker,git,github,postman)](https://skillicons.dev)
